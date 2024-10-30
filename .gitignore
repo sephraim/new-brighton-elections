@@ -1,0 +1,10 @@
+/.devcontainer/
+/.vscode/
+/docker-compose.override.y*ml
+/docker-compose.debug.y*ml
+/tmp
+.DS_Store
+
+# Do NOT ignore .keep / .gitkeep files
+!.keep
+!.gitkeep
